@@ -9,4 +9,4 @@ if(num > 100 && num < 1000)
 else
 {
     Console.WriteLine("Число не трехзначное");
-}ё
+}
