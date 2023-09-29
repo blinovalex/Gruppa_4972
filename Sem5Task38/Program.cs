@@ -97,5 +97,5 @@ InsertionSort(array);
 PrintArray("Сортировка методом вставки:\n", array);
 CountingSort(array);
 PrintArray("Обратная сортировка методом подсчета:\n", array);
-int delta = array[0] - array[array.Length-1];
+int delta = array[0] - array[array.Length - 1];
 PrintResult($"Разница между максимальным и минимальным элементов: {delta}");
